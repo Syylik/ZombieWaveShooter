@@ -1,0 +1,92 @@
+﻿#include "pch-cpp.hpp"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include <limits>
+#include <stdint.h>
+
+
+
+// System.Diagnostics.DebuggerHiddenAttribute
+struct DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88;
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// System.Object
+
+
+// System.Attribute
+struct Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.DebuggerHiddenAttribute
+struct DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
+
+
+// System.Void System.Diagnostics.DebuggerHiddenAttribute::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3 (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * __this, const RuntimeMethod* method);
+static void U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1__ctor_mB0FF58153A4C153B7EC134E02ACD0B27861D6EE7(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_IDisposable_Dispose_m83B579641C31ACB3F8F9C2ACBCE85918ADE2D446(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_Collections_Generic_IEnumeratorU3CTElementU3E_get_Current_m770C7E54C01D4DA89645142C180756A37BA30E17(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_Collections_IEnumerator_get_Current_m31D7687B2ECE3992F417CE86C3115846C82B2D48(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+IL2CPP_EXTERN_C const CustomAttributesCacheGenerator g_System_Core_AttributeGenerators[];
+const CustomAttributesCacheGenerator g_System_Core_AttributeGenerators[4] = 
+{
+	U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1__ctor_mB0FF58153A4C153B7EC134E02ACD0B27861D6EE7,
+	U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_IDisposable_Dispose_m83B579641C31ACB3F8F9C2ACBCE85918ADE2D446,
+	U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_Collections_Generic_IEnumeratorU3CTElementU3E_get_Current_m770C7E54C01D4DA89645142C180756A37BA30E17,
+	U3CGetEnumeratorU3Ed__1_t88F7A7F40A0F49035BD30A5ECC998BF0DDBC4F1A_CustomAttributesCacheGenerator_U3CGetEnumeratorU3Ed__1_System_Collections_IEnumerator_get_Current_m31D7687B2ECE3992F417CE86C3115846C82B2D48,
+};

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c79e1abf0b8814e9f1dbfbbf3e7de6, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  gunName: Uzi
+  isActivated: 0
+  HasAmmo: 1
+  shotDamage: 3
+  shotTime: 0.15
+  ammo: 30
+  baseAmmo: 30
+  shotSound: {fileID: 6664021109224054984, guid: 0f732c001a95b9c41837e468ece5d3f2, type: 3}
+  scoreNeed: 400
+  bulletKnockback: 50
